@@ -34,7 +34,8 @@
 * VS Code
 * Python
 
-## Code
-* [Code](code/webscraping.py/)
+## Code 
+
+* [Code](code/web_scraping.py)
 
 
